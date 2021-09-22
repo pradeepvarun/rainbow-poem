@@ -1,5 +1,5 @@
 apple
 orange
 green
-adding yelloq
-added unicorn branch
+adding yellow
+Adding unicorn-2 by removing unicorn 
